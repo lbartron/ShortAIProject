@@ -27,3 +27,10 @@ Open `index.html` directly in your browser.
 - `styles.css` - UI styling
 - `app.js` - Timer logic and study log handling
 - `netlify.toml` - Netlify static hosting config
+
+## Assignment Info
+- `Netid` - leonb909
+- `Name` - Leo Bartron
+- `Github Repository` - https://github.com/lbartron/ShortAIProject
+- `Deployed Site` - https://studytimerai.netlify.app/
+`Idea` - Make a website that provides a timer that can be used for studying. You can also see the history of your study sessions along with the information for each of them. You can also take temporary notes.  
